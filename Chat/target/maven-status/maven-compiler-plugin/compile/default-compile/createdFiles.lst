@@ -1,0 +1,4 @@
+ChatClient\ClientRMIGUI.class
+ChatClient\WelcomeGUI.class
+ChatClient\ClientRMIGUI$1.class
+ChatServer\ChatServerIF.class
